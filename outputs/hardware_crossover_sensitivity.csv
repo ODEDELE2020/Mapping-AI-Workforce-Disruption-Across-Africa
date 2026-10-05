@@ -1,0 +1,5 @@
+payback_threshold,price_decline_rate,threshold_usd,estimated_crossover_year
+5-year (lenient),"6.7%/yr (fast, historical)",13200,2037
+5-year (lenient),"3-5%/yr (recent, conservative)",13200,2045
+3-year (strict),"6.7%/yr (fast, historical)",7920,2044
+3-year (strict),"3-5%/yr (recent, conservative)",7920,2058

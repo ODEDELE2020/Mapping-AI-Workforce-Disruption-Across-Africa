@@ -1,0 +1,5 @@
+country,avg_monthly_wage_usd_low,avg_monthly_wage_usd_high,source
+Nigeria,220,220,"NBS-based formal-sector salary estimates, 2024"
+India,335,444,"National wage survey compilations, 2024-26"
+Mexico,848,848,"National statistical office data, 2024"
+China,1400,1520,"NBS China / CEIC earnings data, Dec 2024"
